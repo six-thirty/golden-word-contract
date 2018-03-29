@@ -7,3 +7,7 @@
 * FOT01-FOT66可以被拍卖
 * 拥有FOT的用户可以转让该币
 * 拥有FOT的用户可以在时段到期之前半小时修改上链文本，长度90字节，汉字最多30个
+
+## 合约信息
+
+https://etherscan.io/address/0x47cfba6dba7999949055f91b7e71ef12e34ae2a3#readContract
