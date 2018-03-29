@@ -1,0 +1,17 @@
+{
+  "name": "golden-word-contract",
+  "version": "1.0.0",
+  "description": "链上真心话智能合约",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "devDependencies": {
+    "async": "^2.6.0",
+    "bluebird": "^3.5.1",
+    "ethjs-provider-signer": "^0.1.4",
+    "ethjs-signer": "^0.1.1",
+    "moment-timezone": "^0.5.14",
+    "web3": "0.20.5",
+    "zeppelin-solidity": "1.7.0"
+  }
+}
